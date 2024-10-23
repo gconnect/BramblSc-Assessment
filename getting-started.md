@@ -3,7 +3,7 @@ The Getting Started section serves as the entry point for the documentation. It 
 
 ## Problem  
 - It’s unclear whether **Scala knowledge** is required to use the SDK.
-- The documentation does not clearly specify what types of applications or dApps (e.g., web, mobile, or both) can be built using the SDK, leaving developers uncertain about its intended use cases.
+- The documentation does not specify what types of applications or dApps (e.g., web, mobile, or both) can be built using the SDK, leaving developers uncertain about its intended use cases.
 - There is no mention of setup requirements or system prerequisites.
 - The installation and quick start instructions lack clarity and depth, making it harder for developers to onboard quickly.
 
@@ -21,7 +21,7 @@ The Getting Started section serves as the entry point for the documentation. It 
      - Familiarity with Maven or SBT for dependency management.  
 
 ### 4. **System Requirements**  
-   - Specify any **system dependencies or requirements**, such as:  
+   - Specify any system dependencies or requirements, such as:  
      - **JDK version** compatibility (e.g., JDK 8 or JDK 11).  
      - Supported **Scala versions** (2.13).  
      - Any other **operating system or library dependencies**.  
