@@ -13,4 +13,3 @@ Some of the terminologies in the documentation assume prior knowledge, which may
 - **Glossary Section:**  
   Introducing a dedicated Terminologies/Glossary section will allow users to quickly look up special keywords or domain-specific terms. This section will help both experienced developers and newcomers better understand the content without needing external research.  
 
-These improvements will ensure the documentation is beginner-friendly while still catering to more advanced developers.
