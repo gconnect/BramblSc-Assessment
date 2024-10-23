@@ -6,8 +6,6 @@ The Getting Started section serves as the entry point for the documentation. It 
 - There is no mention of **setup requirements** or **system prerequisites**.
 - The **installation and quick start instructions** lack clarity and depth, making it harder for developers to onboard quickly.
 
----
-
 ## Suggested Improvements
 
 ### 1. **Add a Table of Contents**  
