@@ -9,7 +9,7 @@ This documentation contains suggestions and improvements to the existing [Brambl
 - [Terminologies](https://github.com/gconnect/BramblSc-Assessment/blob/main/teminologies.md)
 
 
-## Reason for Selection:
+## Reason for Selection
 The README.md is the first interaction point for developers. Improving it ensures better onboarding for both new and experienced users.
 The Getting Started and Usage examples reduce friction for developers by showing how to use the library directly.
 
