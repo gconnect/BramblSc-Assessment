@@ -31,7 +31,7 @@ The Getting Started section serves as the entry point for the documentation. It 
      - Adding dependencies in `build.sbt`.  
      - Configuring any necessary environment variables, if applicable.
     
-### 6. Add a “Use Case Overview” Section 
+### 6. Add a Use Case Overview Section 
 - Introduce a new subsection that explicitly outlines the **types of applications** the SDK supports. Example:
 
      **Use Case Overview:**  
