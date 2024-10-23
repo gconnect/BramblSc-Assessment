@@ -5,7 +5,7 @@ This section, covers suggestions not covered in other files.
 ## Improve Documentation Directory Structure
 The current documentation structure can be further improved by
 
-### Suggested Improvements:
+### Suggested Improvements
 - There should be an API reference or module documentation section
 - Developer guides/tutorials
 - Link to the documentation directory for example:
@@ -15,11 +15,11 @@ The current documentation structure can be further improved by
  - To explore integration examples, check /integration/src/test."
    
 ## Troubleshooting and FAQs Section
-### Problem:
+### Problem
 There’s no mention of common issues or troubleshooting tips. New users might run into errors, especially during installation or setup.
 
-### Suggested Improvements:
-Create a Troubleshooting section or FAQ. Example topics:
+### Suggested Improvements
+Create a Troubleshooting section or FAQ. Example topics;
 - **Issue:** Dependency conflicts with Scala version.
 - **Solution:** Ensure you are using `Scala version X.X.X.`
 - **Issue:** Tests fail with missing dependencies.
