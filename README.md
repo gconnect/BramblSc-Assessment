@@ -88,7 +88,7 @@ The repository has a documentation directory, but the README does not mention it
 There’s no mention of common issues or troubleshooting tips. New users might run into errors, especially during installation or setup.
 
 ### Suggested Improvements:
-- Create a Troubleshooting section or FAQ. Example topics:
+Create a Troubleshooting section or FAQ. Example topics:
 - **Issue:** Dependency conflicts with Scala version.
 - **Solution:** Ensure you are using `Scala version X.X.X.`
 - **Issue:** Tests fail with missing dependencies.
@@ -99,7 +99,7 @@ There’s no mention of common issues or troubleshooting tips. New users might r
 There's no mention of how external contributors can contribute to the project.
 
 ## Suggested Improvements:
-- Add a "Contributing" section explaining:
+Add a "Contributing" section explaining;
 - Code style guidelines link to contributing guide.
 - How to submit pull requests.
 - Running tests before submission.
