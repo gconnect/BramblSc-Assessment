@@ -2,11 +2,11 @@
 ### Problem:
 The current [README](https://github.com/Topl/BramblSc) is minimal and lacks detailed information on setup, usage, and project structure. This can be challenging for developers, especially newcomers, to navigate the repository.
 
-### Suggested Improvements:
-#### Introduction Section:
+### Suggested Improvements
+#### Introduction Section
 The introduction section should briefly summarize what Brambl SDK does, its primary use cases, and who can benefit from it.
 
-#### Example:
+#### Example
 
 The Brambl SDK is designed to simplify interaction with Topl’s blockchain, providing cryptographic utilities and tools to build decentralized applications. This SDK powers use cases like asset issuance, transaction monitoring, and key management.
 
@@ -19,7 +19,7 @@ Quick setup installation steps should be added.
 #### Note
 Java/Scala version XXX will be required.
 
-#### Example:
+#### Example
 ```bash
 # Clone the repo
 git clone https://github.com/topl/brambl-sc.git
@@ -80,7 +80,7 @@ A detail breakdown of the project or repository structure will help enhance the 
 ### Problem:
 There's no mention of how external contributors can contribute to the project.
 
-## Suggested Improvements:
+## Suggested Improvements
 Add a "Contributing" section explaining;
 - Code style guidelines link to contributing guide.
 - How to submit pull requests.
