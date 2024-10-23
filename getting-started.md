@@ -3,6 +3,7 @@ The Getting Started section serves as the entry point for the documentation. It 
 
 ## Problem  
 - It’s unclear whether **Scala knowledge** is required to use the SDK.
+- It is also not clearly stated in the documenation what kind of application/dapp can be built using the SDK. (Web or mobile or both)
 - There is no mention of **setup requirements** or **system prerequisites**.
 - The **installation and quick start instructions** lack clarity and depth, making it harder for developers to onboard quickly.
 
