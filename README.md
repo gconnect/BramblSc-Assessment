@@ -1,5 +1,5 @@
 # Documentation Improvements for BramblSc
-This documentation contains suggestions and improvements to the existing BramblSc documentation.
+This documentation contains suggestions and improvements to the existing [BramblSc documentation](https://topl.github.io/BramblSc/docs/).
 
 ## Sections Selected for Improvement:
 - [README.md](https://github.com/gconnect/BramblSc-Assessment/blob/main/github-readme.md)
