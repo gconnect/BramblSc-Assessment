@@ -1,4 +1,4 @@
-# BramblSc-Assessment - Documentation Improvements for BramblSc
+# Documentation Improvements for BramblSc
 This documentation contains suggestions and improvements to the existing BramblSc documentation.
 
 ## Sections Selected for Improvement:
