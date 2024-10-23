@@ -15,7 +15,7 @@ The introduction section should briefly summarize what Brambl SDK does, its prim
 The Brambl SDK is designed to simplify interaction with Topl’s blockchain, providing cryptographic utilities and tools to build decentralized applications. This SDK powers use cases like asset issuance, transaction monitoring, and key management.
 
 #### Setup Installation Guide:
-A quick setup installation steps should be added.
+Quick setup installation steps should be added.
 
 - Required tools e.g., Java, Scala, SBT
 - OS-specific setup instructions
@@ -39,12 +39,17 @@ sbt test
 
 ## Overview of Each Artifacts
 
-### brambl-sdk
+### brambl-sdks
+The brambl-sdks are a collection of software development kits that allow developers to interact with the Network. There are currently SDKs for the following languages:
 
+- [Scala (BramblSc)](Link to the sdk)
+- [Dart (BramblDart)](Link to the sdk)
+  
 ### crypto
 The crypto module provides cryptographic functions like signature verification. Here is a detail guide to learn more about the [Crypto]() artifact.
 
 ### service-kit
+The service kit is an implementation of several APIs defined in the brambl-sdk. Here is a reference documentation to learn more about [service-kit](https://topl.github.io/BramblSc/docs/current/service-kit/big-picture).
 
 ### quivr4s
 
