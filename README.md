@@ -38,5 +38,6 @@ Troubleshooting helps developers resolve common issues, improving their overall 
 
 ## Challenges Faced
 It was unclear how some artifacts (e.g., service kits) are intended to be used. I suggested linking to subdirectories or test files for better understanding.
+
 I couldn’t find clear usage examples for all artifacts, which may indicate an area for further documentation improvement.
 
