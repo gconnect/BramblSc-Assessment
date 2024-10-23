@@ -17,8 +17,7 @@ Quick setup installation steps should be added.
 - OS-specific setup instructions
 
 #### Note
-Java/Scala version ... will be required.
-
+Java/Scala version XXX will be required.
 
 #### Example:
 ```bash
@@ -38,8 +37,9 @@ sbt test
 ### brambl-sdks
 The brambl-sdks are a collection of software development kits that allow developers to interact with the Network. There are currently SDKs for the following languages:
 
-- [Scala (BramblSc)](Link to the sdk)
-- [Dart (BramblDart)](Link to the sdk)
+- Scala (BramblSc)
+- Dart (BramblDart)
+For the above SDK it will be great to have a link to the SDK.
   
 ### crypto
 The crypto module provides cryptographic functions like signature verification. Here is a detail guide to learn more about the [Crypto]() artifact.
@@ -48,6 +48,7 @@ The crypto module provides cryptographic functions like signature verification. 
 The service kit is an implementation of several APIs defined in the brambl-sdk. Here is a reference documentation to learn more about [service-kit](https://topl.github.io/BramblSc/docs/current/service-kit/big-picture).
 
 ### quivr4s
+A brief explanation on what this is about and how it is used in the SDK.
 
 ### 1.2 Usage Examples
 #### Problem:
@@ -64,38 +65,18 @@ import co.topl.brambl.Transaction
 val tx = Transaction.create(sender = "address1", receiver = "address2", amount = 100)
 println(s"Transaction: $tx")
 ```
-##### Signing with Crypto
 
 ##### Interacting with service-kit
+Example code for interacting with service kit.
 
+## Project Structure
+### Problem
+There is currently no proper definition of the project structure
 
-## 1.3 Improve Documentation Directory Structure
-### Problem:
-The repository has a documentation directory, but the README does not mention it explicitly, making it hard to find relevant documentation.
+### Solution
+A detail breakdown of the project or repository structure will help enhance the documentation and make navigation easy for developers. This could be done using illustrative or architectural diagrams.
 
-### Suggested Improvements:
-- The link to the documentation should be added to the README with links to key files.
-- API reference or module documentation
-- Developer guides/tutorials
-- Link to the documentation directory for example:
-- Refer to the documentation folder for detailed API usage and advanced guides.
-
-- Provide navigation hints on where to start:
- - For a deep dive into our cryptographic library, visit /crypto/src.
- - To explore integration examples, check /integration/src/test."
-   
-## 1.4 Troubleshooting and FAQs Section
-### Problem:
-There’s no mention of common issues or troubleshooting tips. New users might run into errors, especially during installation or setup.
-
-### Suggested Improvements:
-Create a Troubleshooting section or FAQ. Example topics:
-- **Issue:** Dependency conflicts with Scala version.
-- **Solution:** Ensure you are using `Scala version X.X.X.`
-- **Issue:** Tests fail with missing dependencies.
-- **Solution:** Run `sbt clean && sbt update`.
-  
-## 1.5 Contribution Guidelines
+## 1.4 Contribution Guidelines
 ### Problem:
 There's no mention of how external contributors can contribute to the project.
 
