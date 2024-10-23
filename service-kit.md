@@ -2,8 +2,6 @@
 
 This section provides a decent introduction to the Service Kit, but it could be significantly improved for clarity, developer accessibility, and completeness. Having gone through the [service kit](https://topl.github.io/BramblSc/docs/current/service-kit/big-picture) section of the documentation. Below are the key suggestions for improvement:
 
----
-
 ### **1. Improve Structure and Organization**
 #### *Problem:*
 The section lacks clear organization and flow, making it harder to follow for new readers. Terms are introduced without proper context, and the relationship between different components (e.g., Wallet Vault, Wallet State) could be clarified further.
@@ -22,8 +20,6 @@ The section lacks clear organization and flow, making it harder to follow for ne
   5. Wallet State Details
   ```
   Adding a table of contents makes navigation easier, especially for larger sections.
-
----
 
 ### **2. Clarify Terminology and Core Concepts**
 #### *Problem:*  
@@ -45,8 +41,6 @@ Some terms like **Fellowship**, **Templates**, **HD Wallet**, and **Wallet Vault
   Clarify why the wallet has two parts and how they interact:
   - *Example*: "The Wallet Vault stores the encrypted master key, while the Wallet State tracks wallet interactions such as fellowships and templates, ensuring the wallet maintains its correct state as interactions occur."
 
----
-
 ### **3. Simplify the Language and Improve Readability**
 #### *Problem:*  
 The language used is a bit too technical and assumes a high level of familiarity with the SDK. This makes the documentation harder to understand for beginners.
@@ -63,8 +57,6 @@ The language used is a bit too technical and assumes a high level of familiarity
   val newFellowship = Fellowship("newFellow", 3)
   wallet.addFellowship(newFellowship)
   ```
-
----
 
 ### **4. Add Code Snippets for Key Functionality**
 #### *Problem:*  
@@ -84,8 +76,6 @@ There is a lack of **real-world code examples** demonstrating how to work with t
     println(s"Fellowship Name: ${fellowship.name}")
     ```
 
----
-
 ### **5. Highlight Security Considerations**
 #### *Problem:*  
 No mention of security considerations around handling the Wallet Vault, even though it involves encryption and private key storage.
@@ -99,7 +89,6 @@ No mention of security considerations around handling the Wallet Vault, even tho
   Example revision for **Wallet Vault**:
   > "The wallet vault stores the encrypted master key, and it is crucial to ensure this file is secured properly. The Brambl SDK offers tools to encrypt the master key, and developers should ensure that sensitive data, such as the vault file, is stored securely and backed up regularly."
 
----
 
 ### **6. Provide Context for SQL Schemas**
 #### *Problem:*  
@@ -111,7 +100,6 @@ SQL schemas are provided without enough explanation of how they tie into the ove
   - The **fellowship schema** keeps track of all fellowships associated with the wallet, allowing the system to manage participants efficiently.  
   Add context to the schemas, like why indexing certain columns is necessary or how to extend these tables.
 
----
 
 ### **7. Add Missing Use Cases**
 #### *Problem:*  
