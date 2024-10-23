@@ -123,5 +123,3 @@ There is a lack of practical, high-level use cases that describe how a developer
   - Add fellowships
   - Store state changes (e.g., interaction or transaction states)  
   These should be linked to code snippets and SQL schemas.
-
----
