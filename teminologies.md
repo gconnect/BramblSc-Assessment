@@ -1,6 +1,5 @@
-### Refined Suggestion: 
 
-## Terminologies
+# Terminologies
 
 Some of the terminologies in the documentation assume prior knowledge, which may make it harder for new developers to follow. Providing clearer definitions will improve accessibility. Below are key terms that require further explanation:  
 
