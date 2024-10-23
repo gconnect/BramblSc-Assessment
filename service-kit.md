@@ -1,6 +1,6 @@
 # Overview of Service Kit
 
-This section provides a decent introduction to the Service Kit, but it could be significantly improved for clarity, developer accessibility, and completeness. Below are the key suggestions for improvement:
+This section provides a decent introduction to the Service Kit, but it could be significantly improved for clarity, developer accessibility, and completeness. Having gone through the [service kit](https://topl.github.io/BramblSc/docs/current/service-kit/big-picture) section of the documentation. Below are the key suggestions for improvement:
 
 ---
 
